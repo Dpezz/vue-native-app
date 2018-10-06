@@ -13,11 +13,8 @@
             <nb-right/>
         </nb-header>
         <nb-content>
-            
             <!-- <nb-text>{{ todo }}</nb-text> -->
-          
         </nb-content>
-            
     </nb-container>
 </template>
 
